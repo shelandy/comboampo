@@ -10,7 +10,12 @@ A combo amplifier design targeted for portable monitoring/playback for two chann
     use FLOSS tool such as freeCAD to design
 
 ## Parts
-    Rockford Fosgate Punch p1s4
-    Jensen XA250 200W (50x4＠4ohm)
-    isolatied/sealed cabinate
+    * 1x Rockford Fosgate Punch p1s4 4 ohm (from recycle electronics)
+    * 1x Jensen XA250 200W (50x4＠4ohm)(from recycle electronics)
+    * isolatied/sealed cabinate of 3/4 and 1" MDF boards from the recycled car speaker cabinate and other recycle funiture
+    * 1x power supply 12A (from recycle electronics) > 100W
+    * 1x power rocker switch (from recycle electronics)
+    * 1 pair RCA and 1 pair 1/4" mic input socket (from recycle electronics)
+    * 4 potentiometers (new)
+    * few wood screws and glue
 
