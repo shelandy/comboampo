@@ -16,7 +16,7 @@ A combo amplifier design targeted for portable monitoring/playback for two chann
     * 1x power supply 12A, power > 100W (from recycling electronics)
     * 1x power rocker switch (from recycling electronics)
     * 1 pair RCA and 1 pair 1/4" mic input socket (from recycling electronics)
-    * 4x potentiometers (new)
+    * 4x potentiometers (new or from recycling electronics)
     * 1x 3 pong power socket (from recycling electronics)
     * 2x side handles  (from recycling lugguage)
     * top handle ((from recycling lugguage)
